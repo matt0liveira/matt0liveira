@@ -1,6 +1,7 @@
 ## Eaiii! Eu sou o Matheus Oliveira
-- 👀 Interessado em vagas para ganhar experiência em front-end/back-end
-- 🌱 Estudando React Native
+- 👀 Procurando minha primeira vaga como dev
+- 🤓 Técnico em Desenvolvimento de Sistemas
+- 🌱Procurando me desenvolver em tecnologias front-end
 - 🎂 18 anos (0 km)
 
 <div align="center">
