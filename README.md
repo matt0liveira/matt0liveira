@@ -2,7 +2,7 @@
 - 🤓 Técnico em Desenvolvimento de Sistemas
 - 💻 Auxiliar de suporte técnico
 - 🌱 Me especializando em tecnologias front-end
-- 🎂 19 anos (0 km)
+- 🎂 /03 (0 km)
 
 <div align="center">
   <a href="https://github.com/matt0liveira">
