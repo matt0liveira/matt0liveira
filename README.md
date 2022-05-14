@@ -1,5 +1,4 @@
 ## Eaiii! Eu sou o Matheus Oliveira
-- 👀 Procurando minha primeira vaga como dev
 - 🤓 Técnico em Desenvolvimento de Sistemas
 - 💻 Auxiliar de suporte técnico
 - 🌱 Me especializando em tecnologias front-end
