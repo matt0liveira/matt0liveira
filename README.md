@@ -1,7 +1,6 @@
 ## Eaiii! Eu sou o Matheus Oliveira
 - 👨‍💻 Dev FullStack
 - 🤓 Técnico em Desenvolvimento de Sistemas
-- 🌱 Me especializando em tecnologias front-end
 - 🎂 /03 (0 km)
 
 <div align="center">
